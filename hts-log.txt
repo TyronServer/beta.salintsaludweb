@@ -1,0 +1,51 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 20 Nov 2023 10:52:07 at https://tweem.com/#access +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://tweem.com/#access -O1 "C:\Users\Tyron\Desktop\Pagina Clonada\clon" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+10:52:13	Warning: 	Note: due to https://tweem.com remote robots.txt rules, links beginning with these path will be forbidden: /politica-de-privacidad/, /politica-de-cookies/, /aviso-legal/, /politica-de-uso-web/, /admin/, /formulario-interno-hubspot/ (see in the options to disable this)
+10:52:42	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link primary/robots.txt (from primary/primary)
+10:52:42	Warning: 	Retry after error -5 (Unable to get server's address: Host desconocido. ) at link primary/access (from primary/primary)
+10:54:23	Error: 	"Not Found" (404) at link https://tweem.com/POST (from https://tweem.com/)
+10:54:26	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link primary/access (from primary/primary)
+10:54:28	Warning: 	File not parsed, looks like binary: https://tweem.com/.resources/vbote-worktime-module/webresources/fonts/fontawesome-webfont.woff2?v=4.7.0
+10:54:28	Error: 	"Not Found" (404) at link https://tweem.com/.resources/vbote-worktime-module/webresources/fonts/ElegantIcons.eot (from https://tweem.com/.resources/vbote-worktime-module/webresources/css/elegant-font-icons.css)
+10:54:28	Error: 	"Not Found" (404) at link https://tweem.com/.resources/vbote-worktime-module/webresources/fonts/ElegantIcons.eot? (from https://tweem.com/.resources/vbote-worktime-module/webresources/css/elegant-font-icons.css)
+10:54:28	Error: 	"Not Found" (404) at link https://tweem.com/.resources/vbote-worktime-module/webresources/fonts/ElegantIcons.ttf (from https://tweem.com/.resources/vbote-worktime-module/webresources/css/elegant-font-icons.css)
+10:54:28	Error: 	"Not Found" (404) at link https://tweem.com/.resources/vbote-worktime-module/webresources/fonts/ElegantIcons.svg (from https://tweem.com/.resources/vbote-worktime-module/webresources/css/elegant-font-icons.css)
+10:54:28	Error: 	"Not Found" (404) at link https://tweem.com/.resources/vbote-worktime-module/webresources/fonts/et-line.eot (from https://tweem.com/.resources/vbote-worktime-module/webresources/css/elegant-line-icons.css)
+10:54:28	Error: 	"Not Found" (404) at link https://tweem.com/.resources/vbote-worktime-module/webresources/fonts/et-line.eot? (from https://tweem.com/.resources/vbote-worktime-module/webresources/css/elegant-line-icons.css)
+10:54:28	Error: 	"Not Found" (404) at link https://tweem.com/.resources/vbote-worktime-module/webresources/fonts/et-line.ttf (from https://tweem.com/.resources/vbote-worktime-module/webresources/css/elegant-line-icons.css)
+10:54:28	Error: 	"Not Found" (404) at link https://tweem.com/.resources/vbote-worktime-module/webresources/fonts/et-line.svg (from https://tweem.com/.resources/vbote-worktime-module/webresources/css/elegant-line-icons.css)
+10:54:28	Error: 	"Not Found" (404) at link https://tweem.com/.resources/vbote-worktime-module/webresources/css/owl.video.play.png (from https://tweem.com/.resources/vbote-worktime-module/webresources/css/owl.carousel.css)
+10:54:28	Error: 	"Not Found" (404) at link https://tweem.com/.resources/vbote-worktime-module/webresources/img/video-bg.jpg (from https://tweem.com/.resources/vbote-worktime-module/webresources/css/main.css)
+10:54:28	Error: 	"Not Found" (404) at link https://tweem.com/.resources/vbote-worktime-module/webresources/img/testi-bg.jpg (from https://tweem.com/.resources/vbote-worktime-module/webresources/css/main.css)
+10:54:32	Error: 	"Not Found" (404) at link https://tweem.com/en/cookies-policy-tweem (from https://tweem.com/en)
+10:54:33	Error: 	"Not Found" (404) at link https://tweem.com/GET (from https://tweem.com/tweem-academy)
+10:54:34	Warning: 	Permanent Redirect for tweem.com/robots.txt
+10:54:34	Warning: 	Redirected link is identical because of 'URL Hack' option: tweem.com/robots.txt and https://tweem.com/robots.txt
+10:54:34	Warning: 	Warning moved treated for tweem.com/robots.txt (real one is https://tweem.com/robots.txt)
+10:54:34	Warning: 	Permanent Redirect for tweem.com/home-blog/dynacontent/
+10:54:34	Warning: 	File has moved from tweem.com/home-blog/dynacontent/ to https://tweem.com/home-blog/dynacontent
+10:56:07	Warning: 	Permanent Redirect for tweem.com/contacto-partners/dynacontent/
+10:56:07	Warning: 	File has moved from tweem.com/contacto-partners/dynacontent/ to https://tweem.com/contacto-partners/dynacontent
+10:56:07	Error: 	"Not Found" (404) at link https://tweem.com/detalle-noticia/dynacontent/dam/worktime/logo-tweem-color.svg (from https://tweem.com/detalle-noticia/dynacontent/beneficios-clave-de-la-planificacion-de-horarios-y-turnos-de-tweem-.html)
+10:56:07	Error: 	"Not Found" (404) at link https://tweem.com/detalle-noticia/dynacontent/dam/worktime/cookies-img.png (from https://tweem.com/detalle-noticia/dynacontent/beneficios-clave-de-la-planificacion-de-horarios-y-turnos-de-tweem-.html)
+10:56:07	Warning: 	Permanent Redirect for tweem.com/contacto-tweem/dynacontent/
+10:56:07	Warning: 	File has moved from tweem.com/contacto-tweem/dynacontent/ to https://tweem.com/contacto-tweem/dynacontent
+10:56:08	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link primary/access (from primary/primary)
+10:56:09	Error: 	"Not Found" (404) at link https://tweem.com/en/POST (from https://tweem.com/en/starts-form-tweem)
+10:56:09	Error: 	"Not Found" (404) at link https://tweem.com/tweem/en/data-protection-information (from https://tweem.com/en/contact-partners)
+10:56:09	Error: 	"Not Found" (404) at link https://tweem.com/home-blog/dynacontent (from tweem.com/home-blog/dynacontent/)
+10:56:09	Error: 	"Not Found" (404) at link https://tweem.com/detalle-noticia/dynacontent/oap (from https://tweem.com/detalle-noticia/dynacontent/os-invitamos-al-showroom-en-oap-femeval---tweem--el-portal-del-empleado-en-la-nube-que-facilita-la-gestion-de-tu-equipo.html)
+10:56:12	Error: 	"Not Found" (404) at link https://tweem.com/detalle-noticia/dynacontent/Fichar desde el smartphone con tweem (from https://tweem.com/detalle-noticia/dynacontent/coronavirus-y-teletrabajo-como-influye-en-el-registro-horario-en-las-empresas.html)
+10:56:12	Error: 	"Not Found" (404) at link https://tweem.com/contacto-partners/dynacontent (from tweem.com/contacto-partners/dynacontent/)
+10:56:12	Error: 	"Not Found" (404) at link https://tweem.com/contacto-tweem/dynacontent (from tweem.com/contacto-tweem/dynacontent/)
+10:56:13	Error: 	"Not Found" (404) at link https://tweem.com/en/dam/worktime/cookies-img.png (from https://tweem.com/en/)
+10:56:13	Error: 	"Not Found" (404) at link https://tweem.com/en_EN/en/POST (from https://tweem.com/en_EN/en/starts-form-tweem.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 4 minutes 6 seconds : 635 links scanned, 601 files written (129637839 bytes overall) [115224527 bytes received at 468392 bytes/sec], 19260059 bytes transferred using HTTP compression in 221 files, ratio 23%, 21.8 requests per connection
+(27 errors, 13 warnings, 0 messages)
